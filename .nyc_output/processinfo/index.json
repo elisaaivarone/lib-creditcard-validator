@@ -1,0 +1,1 @@
+{"processes":{"aa84d1e7-37a5-4800-8bb3-6207747629f2":{"parent":"e76643ab-65b4-4eae-88cd-f7a6be28676c","children":[]},"e76643ab-65b4-4eae-88cd-f7a6be28676c":{"parent":null,"children":["aa84d1e7-37a5-4800-8bb3-6207747629f2"]}},"files":{"/home/laboratoria/projetos/lib-creditcard-validator/lib/index.js":["aa84d1e7-37a5-4800-8bb3-6207747629f2"]},"externalIds":{}}
