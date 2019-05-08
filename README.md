@@ -8,7 +8,7 @@ A biblioteca será testada através da função cardValidator().
 
 ```shell
 
-$ npm install 
+$ npm install lib-cardvalidator-elis
 
 ```
 
@@ -16,8 +16,8 @@ $ npm install
 
 ```node
 
-> const cpfValidator = require("lib-creditcard-validator");
-> console.log()
+> const card = require("lib-cardvalidator-elis");
+> console.log(card.cardValidator('5574735407364815'))
 
 ```
 
