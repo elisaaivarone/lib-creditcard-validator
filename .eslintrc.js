@@ -15,7 +15,7 @@ module.exports = {
     'rules': {
         'indent': [
             'error',
-            4
+            2
         ],
         'linebreak-style': [
             'error',
@@ -42,7 +42,7 @@ module.exports = {
             "error", { before: false, after: true }
         ],
         'space-before-blocks': [
-            "error", "never"
+            "error", "always"
         ],
         'spaced-comment': [
             "error", "always", { "exceptions": ["-", "+"] }
