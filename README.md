@@ -23,4 +23,4 @@ $ npm install lib-cardvalidator-elis
 
 ## Roadmap do projeto
 
-#### versão 1.0.0
+#### versão 1.1.1
